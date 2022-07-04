@@ -1,0 +1,15 @@
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP2/MusicStore/bin/Debug/net6.0/MusicStore
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP2/MusicStore/bin/Debug/net6.0/MusicStore.deps.json
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP2/MusicStore/bin/Debug/net6.0/MusicStore.runtimeconfig.json
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP2/MusicStore/bin/Debug/net6.0/MusicStore.dll
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP2/MusicStore/bin/Debug/net6.0/MusicStore.pdb
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP2/MusicStore/obj/Debug/net6.0/MusicStore.csproj.AssemblyReference.cache
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP2/MusicStore/obj/Debug/net6.0/MusicStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP2/MusicStore/obj/Debug/net6.0/MusicStore.AssemblyInfoInputs.cache
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP2/MusicStore/obj/Debug/net6.0/MusicStore.AssemblyInfo.cs
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP2/MusicStore/obj/Debug/net6.0/MusicStore.csproj.CoreCompileInputs.cache
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP2/MusicStore/obj/Debug/net6.0/MusicStore.dll
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP2/MusicStore/obj/Debug/net6.0/refint/MusicStore.dll
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP2/MusicStore/obj/Debug/net6.0/MusicStore.pdb
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP2/MusicStore/obj/Debug/net6.0/MusicStore.genruntimeconfig.cache
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP2/MusicStore/obj/Debug/net6.0/ref/MusicStore.dll
